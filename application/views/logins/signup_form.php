@@ -84,7 +84,7 @@
 			  padding: 10px;
 			  font-size: 1.6em;
 			  width: 100%;
-			  background: transparent;
+			  background: #ccc;
 			  color: black;
 			}
 			.login form input.form-control:focus {
